@@ -3,7 +3,9 @@
   <img src="https://static.vecteezy.com/system/resources/previews/000/202/967/original/ethereum-network-background-vector.jpg" width="300"/>
 </div>
 <h1 align="center">Hi 👋, I'm Yash Thipsay</h1>
-<h3 align="left">A passionate Solidity and Web3 Full Stack Developer working on Smart Contracts and Dapp Development. I have created and audited various Smart Contracts and I also working on integrating the Web3 backend with websites. Apart from that, I have also worked on various Full Stack and Server Side Projects as well</h3>
+<h3 align="left">I am a dedicated and passionate Solidity and Web3 Full Stack Developer with a strong commitment to driving innovation in the blockchain ecosystem. With a profound interest in creating decentralized solutions, I specialize in Smart Contract development, DApp creation, Smart Contract auditing, and seamless integration of Web3 backend functionalities into websites. My journey in software development has also led me to contribute significantly to various Full Stack and Server Side Projects, showcasing my versatility and adaptability.</h3>
+<p>I possess a wealth of experience in developing Smart Contracts, harnessing the power of the Solidity programming language. My creations span diverse domains, including finance, supply chain management, governance, and beyond</p>
+<p>My skills extend to integrating Web3 backend functionalities into websites, creating a bridge between traditional web interfaces and blockchain networks. This integration empowers users to interact seamlessly with Smart Contracts, access decentralized data, and perform blockchain transactions, fostering a user-friendly and intuitive experience.</p>
 <div>
   
 <img align="left" alt="Coding" width= "400" src="https://dresma.ai/wp-content/uploads/2022/01/mern-stack-developer.gif">
