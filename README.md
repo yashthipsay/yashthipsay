@@ -1,6 +1,6 @@
 <div id="header" align="center">
-  <img src="https://wallpaperaccess.com/full/5539088.png" width="500"/>
-  <img src="https://static.vecteezy.com/system/resources/previews/000/202/967/original/ethereum-network-background-vector.jpg" width="300"/>
+  <img src="https://github.com/yashthipsay/yashthipsay/blob/main/Firefly%20create%20a%20cartoonistic%20banner%20with%20a%20mixture%20of%20spaceship%20technologies%20with%20digital%20technolog.jpg?raw=true" width="1500" height="380"/>
+  
 </div>
 <h1 align="center">Hi 👋, I'm Yash Thipsay</h1>
 <h3 align="left">I am a dedicated and passionate Solidity and Web3 Full Stack Developer with a strong commitment to driving innovation in the blockchain ecosystem. With a profound interest in creating decentralized solutions, I specialize in Smart Contract development, DApp creation, Smart Contract auditing, and seamless integration of Web3 backend functionalities into websites. My journey in software development has also led me to contribute significantly to various Full Stack and Server Side Projects, showcasing my versatility and adaptability.</h3>
