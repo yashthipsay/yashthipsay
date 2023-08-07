@@ -9,7 +9,7 @@
 <div>
   
 <img align="left" alt="Coding" width= "400" src="https://dresma.ai/wp-content/uploads/2022/01/mern-stack-developer.gif">
-<img align="right" alt="Coding" width= "400" src="https://i.ytimg.com/vi/RzoQo5ShwPs/maxresdefault.jpg">
+<img align="right" alt="Coding" width= "450" src="https://i.ytimg.com/vi/RzoQo5ShwPs/maxresdefault.jpg">
 </div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashthipsay" alt="yashthipsay" /></a> </p>
