@@ -34,3 +34,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashthipsay&show_icons=true&locale=en" alt="yashthipsay" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashthipsay&" alt="yashthipsay" /></p>
+<a href="https://app.daily.dev/yasht"><img src="https://api.daily.dev/devcards/a767b76821624d528b70e697260a3926.png?r=v9z" width="400" alt="Yash T's Dev Card"/></a>
