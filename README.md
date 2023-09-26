@@ -32,5 +32,5 @@
 ![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashthipsay&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashthipsay&" alt="yashthipsay" /></p>
-[![Yash's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yashthipsay)](https://github.com/anuraghazra/github-readme-stats)
+
 <a href="https://app.daily.dev/yasht"><img src="https://api.daily.dev/devcards/a767b76821624d528b70e697260a3926.png?r=v9z" width="400" alt="Yash T's Dev Card"/></a>
