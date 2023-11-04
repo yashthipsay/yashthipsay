@@ -34,3 +34,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashthipsay&" alt="yashthipsay" /></p>
 
 <a href="https://app.daily.dev/yasht"><img src="https://api.daily.dev/devcards/a767b76821624d528b70e697260a3926.png?r=v9z" width="400" alt="Yash T's Dev Card"/></a>
+[![An image of @yashthipsay's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yashthipsay)](https://holopin.io/@yashthipsay)
