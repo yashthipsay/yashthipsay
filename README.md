@@ -2,9 +2,9 @@
 
 🔧 Backend Engineer: I specialize in ethers.js, TypeScript, and API development, bringing a strong foundation in backend engineering to every project I undertake.
 
-🔐 Smart Contract Security: Recently, I interned as a Smart Contract Security Intern at Nethermind Pvt Ltd, where I deepened my understanding of blockchain security and contributed to various projects.
+🔐 Smart Contract Security: Recently, I interned as a Smart Contract Security Intern at [Nethermind](https://github.com/NethermindEth), where I deepened my understanding of blockchain security and contributed to various projects.
 
-🌐 Blockchain Enthusiast: Actively seeking internships and opportunities to gain more experience in Blockchain Technology. I’m passionate about building secure and efficient blockchain applications.
+🌐 Blockchain Enthusiast: Actively seeking internships and opportunities to gain more experience in Blockchain Technology. I’m passionate about creating secure and efficient blockchain applications.
 
 📚 Learning & Development: Currently enhancing my skills in smart contract auditing to ensure the integrity and security of decentralized applications.
 
